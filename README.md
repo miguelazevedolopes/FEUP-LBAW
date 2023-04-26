@@ -26,3 +26,8 @@ A project management website developed for the LBAW course at FEUP (Graded 19 ou
 | Miguel Lopes     | up201704590@up.pt   |
 | Edgar Torre      | up201906573@up.pt   |
 | Henrique Pinho   | up201805000@up.pt   |
+
+
+## Disclaimer
+
+This repository, and every other repository (I own) named in the format FEUP-COURSENAME on GitHub correspond to the projects I developed during my time as a student at Faculty of Engineering of University of Porto
