@@ -2,6 +2,11 @@
 
 ## Project Clinic - Project Management application
 
+A project management website developed for the LBAW course at FEUP.
+
+![](/docs/PA/video_screenshot.png)
+
+[Video Demo Link](/docs/PA/lbaw2151.mp4)
 
 ### Links to artifacts
 
