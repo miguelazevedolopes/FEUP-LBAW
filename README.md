@@ -1,6 +1,4 @@
-# lbaw2151
-
-## Project Clinic - Project Management application
+# Project Clinic - Project Management application
 
 A project management website developed for the LBAW course at FEUP (Graded 19 out of 20)
 
