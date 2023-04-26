@@ -2,15 +2,17 @@
 
 ## Project Clinic - Project Management application
 
+
 ### Links to artifacts
 
-[ER - Link](/docs/ER/er.md)
+[ER: Requirements Specification Component](/docs/ER/er.md)
 
-[EBD - Link](/docs/EBD/ebd.md)
+[EBD: Database Specification Component](/docs/EBD/ebd.md)
 
-[EAP - Link](/docs/EAP/eap.md)
+[EAP: Architecture Specification and Prototype](/docs/EAP/eap.md)
 
-[PA - Link](/docs/PA/pa.md)
+[PA: Final Product and Presentation](/docs/PA/pa.md)
+
 
 
 | Name             | E-Mail              |
