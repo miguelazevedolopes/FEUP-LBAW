@@ -2,7 +2,7 @@
 
 ## Project Clinic - Project Management application
 
-A project management website developed for the LBAW course at FEUP.
+A project management website developed for the LBAW course at FEUP (Graded 19 out of 20)
 
 ![](/docs/PA/video_screenshot.png)
 
